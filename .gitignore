@@ -1,0 +1,19 @@
+# Ignore outputs file
+*.o
+*.exe
+*.out
+
+# Ignore Editor Files
+.vs/
+.vscode/
+.idea/
+
+# Ignore Build Directories
+build/
+out/
+dist/
+
+# CMake
+cmake-build-debug/
+CMakeLists.txt
+
